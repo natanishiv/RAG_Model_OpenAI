@@ -1,4 +1,4 @@
-# RAG Model Chatbot Fine-tuning Project
+# RAG Model Chatbot
 
 ## Overview
 
